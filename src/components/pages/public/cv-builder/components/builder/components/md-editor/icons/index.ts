@@ -1,0 +1,5 @@
+export {BoldIcon} from './bold'
+export {ItalicIcon} from './italic'
+export {StrikeThroughIcon} from './strike-through'
+export {ListIcon} from './list'
+export {UnderlineIcon} from './underline'

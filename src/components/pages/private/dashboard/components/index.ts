@@ -1,0 +1,6 @@
+export {AdminDashboard} from './admin-dashboard'
+export {CompanyDashboard} from './company-dashboard'
+export {ConsultingDashboard} from './consulting-dashboard'
+export {UniversityDashboard} from './university-dashboard'
+export {UserDashboard} from './user-dashboard'
+export {DashboardChart} from './dashboard-chart'

@@ -1,0 +1,6 @@
+export {About} from './about'
+export {Overview} from './overview'
+export {AvailablePrograms} from './available-programs'
+export {Admission} from './admission'
+export {Costs} from './costs'
+export {VideosPhotos} from './videos-photos'

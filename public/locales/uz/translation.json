@@ -1,0 +1,41 @@
+{
+  "university": {
+    "explore_programs_and_universities": "Dasturlarni va Universitetlarni tanishib chiqing",
+    "when_youre_searching_for": "Agar Siz Universitetni qidirsangiz, qidiruvdan maksimal foydalanish uchun bir nechta narsalarni amalga oshirishingiz mumkin",
+    "program_University_or_keyword": "Dastur, Universitet yoki kalit so'z",
+    "search": "Qidirish",
+    "universities": "Universitetlar",
+    "programs": "Dasturlar",
+    "res": "natija",
+    "load_more": "Ko'proq yuklash"
+  },
+  "about_program":{
+    "save":"saqlash",
+    "apply":"Apply",
+    "requirements":"Requirements",
+    "deadline":"Deadline",
+    "costs":"Costs",
+    "admission":"Admission",
+    "summary":"Summary",
+    "tuition_fee":"Tuition Fee",
+    "scholarship":"Scholarship",
+    "living_costs":"Living Costs",
+    "download_scholarship_guide":"Download scholarship guide",
+    "media":"Media",
+    "view_image_gallery":"View image gallery",
+    "more_programs_from":"More Programs from the University",
+    "bachelor":"Bachelor",
+    "masters":"Masters",
+    "MBA":"MBA",
+    "PHD":"PHD",
+    "search_university_programs":"Search university programs",
+    "others":"others",
+    "agriculture":"Agriculture",
+    "architecture":"Architecture",
+    "arts_design":"Arts & Design",
+    "business_administration":"Business Administration",
+    "computer_schience":"Computer Schience",
+    "view_all":"View All"
+  }
+
+}

@@ -1,0 +1,42 @@
+export const COMPANIES = [
+  {
+    id: 0,
+    favorite: true,
+    fullName: 'Eliasen Group',
+    isOffline: true,
+    avatar: '/mock-images/company-0.png',
+    lastMessage: 'Assalomu aleykum hozir menda',
+  },
+  {
+    id: 1,
+    favorite: true,
+    fullName: 'Amazon',
+    isOffline: true,
+    avatar: '/mock-images/company-1.png',
+    lastMessage: 'Assalomu aleykum hozir menda',
+  },
+  {
+    id: 2,
+    favorite: false,
+    fullName: 'Google',
+    isOffline: true,
+    avatar: '/mock-images/company-2.png',
+    lastMessage: 'Bugun javobi chiqadimi?',
+  },
+  {
+    id: 3,
+    favorite: true,
+    fullName: 'Starbucks',
+    isOffline: true,
+    avatar: '/mock-images/company-3.png',
+    lastMessage: 'Ho‘p raxmat !',
+  },
+  {
+    id: 4,
+    favorite: false,
+    fullName: 'LLC Getter',
+    isOffline: true,
+    avatar: '/mock-images/company-4.png',
+    lastMessage: 'Hello',
+  },
+]

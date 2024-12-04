@@ -1,0 +1,11 @@
+import {Icon} from '@/components/common/icon'
+import {IconProps} from '@/components/common/icon/types'
+
+export const FilterTrashIcon = (props: IconProps) => (
+  <Icon {...props} viewBox="0 0 18 14">
+    <path
+      d="M11.5 10.3203H14.8203V12H11.5V10.3203ZM11.5 3.67969H17.3203V5.32031H11.5V3.67969ZM11.5 7H16.5V8.67969H11.5V7ZM1.5 12C1.5 12.8984 2.24219 13.6797 3.17969 13.6797H8.17969C9.07812 13.6797 9.82031 12.8984 9.82031 12V3.67969H1.5V12ZM3.17969 5.32031H8.17969V12H3.17969V5.32031ZM7.32031 0.320312H4L3.17969 1.17969H0.679688V2.82031H10.6797V1.17969H8.17969L7.32031 0.320312Z"
+      fill="currentColor"
+    />
+  </Icon>
+)

@@ -1,0 +1,5 @@
+export {Universities} from './universities'
+export {Vacancies} from './vacancies'
+export {Feedbacks} from './feedbacks'
+export {SocialHighLights} from './social-highlights'
+export {FAQs} from './faqs'

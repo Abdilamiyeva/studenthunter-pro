@@ -1,0 +1,11 @@
+import {Icon} from '@/components/common/icon'
+import {IconProps} from '@/components/common/icon/types'
+
+export const StudyIcon = (props: IconProps) => (
+  <Icon {...props} viewBox="0 0 16 16">
+    <path
+      d="M2.66667 7.55551L0 5.99998L8 1.33331L16 5.99998V11.6666L15 11.6666V6.50031L13.3333 7.55551V12.0075L13.1849 12.1909C11.9638 13.6999 10.0945 14.6666 8 14.6666C5.90545 14.6666 4.03619 13.6999 2.81509 12.1909L2.66667 12.0075V7.55551ZM3.5 8.00031V11.5003C5 13.0003 6.40741 13.5003 8 13.5003C9.5926 13.5003 10.5 13.5003 12.5 11.5003V8.00031L8 10.6666L3.5 8.00031ZM2 5.99998L8 9.50031L14 5.99998L8 2.50031L2 5.99998Z"
+      fill="currentColor"
+    />
+  </Icon>
+)
